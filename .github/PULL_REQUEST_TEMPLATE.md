@@ -1,8 +1,8 @@
 # Entrega – Documento de Casos de Uso e Diagramas
 
 ## Identificação da Dupla
-- Aluno 1:
-- Aluno 2:
+- Aluno 1: Felipe Grossi Pereira
+- Aluno 2: João Pedro De Oliveira Virgílio
 
 ## Arquivos Entregues
 
